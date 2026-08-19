@@ -22,6 +22,9 @@ To explore whether logistics data can be used to identify patterns associated wi
 
 📓 The project was developed in **Google Colab**.
 
+<img width="523" height="66" alt="image" src="https://github.com/user-attachments/assets/3b72e8a0-322a-4c31-ae35-1874505974e1" />
+
+
 <img width="660" height="493" alt="image" src="https://github.com/user-attachments/assets/206ffb90-521e-443a-b399-37201eb34332" />
 
 <img width="993" height="630" alt="image" src="https://github.com/user-attachments/assets/7b23bc68-a4f9-4264-a133-52e18225b525" />
