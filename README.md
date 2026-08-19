@@ -26,4 +26,7 @@ To explore whether logistics data can be used to identify patterns associated wi
 
 <img width="993" height="630" alt="image" src="https://github.com/user-attachments/assets/7b23bc68-a4f9-4264-a133-52e18225b525" />
 
+<img width="788" height="578" alt="image" src="https://github.com/user-attachments/assets/3968b2c2-b18a-4b90-b5f5-c817ed57118f" />
+
+
 
