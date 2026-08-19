@@ -21,3 +21,6 @@ The project includes:
 To explore whether logistics data can be used to identify patterns associated with delivery delays and build a model for delay prediction.
 
 📓 The project was developed in **Google Colab**.
+
+<img width="660" height="493" alt="image" src="https://github.com/user-attachments/assets/206ffb90-521e-443a-b399-37201eb34332" />
+
