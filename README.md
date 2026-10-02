@@ -22,6 +22,18 @@ To explore whether logistics data can be used to identify patterns associated wi
 
 📓 The project was developed in **Google Colab**.
 
+### 📈 Results
+
+Models use only information available before delivery. `actual_delivery_hours`, `delivery_status` and `delivery_rating` are excluded, because they are known only after the delivery and would leak the answer to the model.
+
+| Model | Accuracy | Recall (delayed) | Precision (delayed) |
+|---|---|---|---|
+| Decision Tree (max_depth=4) | 0.87 | 0.91 | 0.70 |
+| KNN (k=3) | 0.84 | 0.74 | 0.69 |
+| KNN (k=3, scaled) | 0.83 | 0.64 | 0.70 |
+
+All models are evaluated on the same stratified 80/20 split (`random_state=42`).
+
 <img width="523" height="66" alt="image" src="https://github.com/user-attachments/assets/3b72e8a0-322a-4c31-ae35-1874505974e1" />
 
 
